@@ -16,12 +16,10 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "fzaninotto/faker": "~1.0",
-        "laravel/framework": "~5.4",
+        "laravel/lumen-framework": "^6.0|^7.0|^8.0",
         "ramsey/uuid": "^3.0",
         "mnapoli/front-yaml": "^1.5",
-        "mnapoli/silly": "~1.0",
-        "illuminate/view": "5.*"
+        "mnapoli/silly": "~1.0"
     },
     "require-dev": {
         "orchestra/testbench": "~3.0",
