@@ -1,5 +1,5 @@
 {
-    "name": "davmixcool/lumen-apidoc-generator",
+    "name": "donicom/lumen-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation using Dingo router from your Lumen application",
     "keywords": [
