@@ -8,7 +8,7 @@
         "Lumen",
         "Laravel"
     ],
-    "homepage": "http://github.com/davmixcool/lumen-apidoc-generator",
+    "homepage": "http://github.com/donicom/lumen-apidoc-generator",
     "authors": [
         {
             "name": "Tung"
